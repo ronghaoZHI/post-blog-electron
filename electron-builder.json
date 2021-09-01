@@ -1,0 +1,11 @@
+{
+  "appId": "com.github.ronghaoZHI.post-blog-tool",
+  "copyright": "Copyright © 2021 year by ${author}",
+  "productName": "文章发布助手",
+  "mac": {
+    "target": ["dmg"]
+  },
+  "win": {
+    "target": ["nsis", "zip"]
+  }
+}
